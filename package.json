@@ -2,6 +2,9 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "16.15.1"
+  },
   "homepage": "https://zhngzh527.github.io/Book-Search-Engine/",
   "dependencies": {
     "@apollo/client": "^3.7.9",
